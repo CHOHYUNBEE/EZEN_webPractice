@@ -1,0 +1,54 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: "Noto Sans KR";
+    src: url("../../common/fonts/NotoSansKR-Thin.woff2") format("woff2"), 
+    url("../../common/fonts/NotoSansKR-Thin.woff") format("woff");
+    font-style: normal;
+    font-display: swap;
+    font-weight: 100;
+}
+@font-face {
+    font-family: "Noto Sans KR";
+    src: url("../../common/fonts/NotoSansKR-Light.woff2") format("woff2"), 
+    url("../../common/fonts/NotoSansKR-Light.woff") format("woff");
+    font-style: normal;
+    font-display: swap;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "Noto Sans KR";
+    src: url("../../common/fonts/NotoSansKR-Regular.woff2") format("woff2"), 
+    url("../../common/fonts/NotoSansKR-Regular.woff") format("woff");
+    font-style: normal;
+    font-display: swap;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Noto Sans KR";
+    src: url("../../common/fonts/NotoSansKR-Medium.woff2") format("woff2"), 
+    url("../../common/fonts/NotoSansKR-Medium.woff") format("woff");
+    font-style: normal;
+    font-display: swap;
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "Noto Sans KR";
+    src: url("../../common/fonts/NotoSansKR-Bold.woff2") format("woff2"), 
+    url("../../common/fonts/NotoSansKR-Bold.woff") format("woff");
+    font-style: normal;
+    font-display: swap;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Noto Sans KR";
+    src: url("../../common/fonts/NotoSansKR-Black.woff2") format("woff2"), 
+    url("../../common/fonts/NotoSansKR-Black.woff") format("woff");
+    font-style: normal;
+    font-display: swap;
+    font-weight: 900;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700&display=swap');
+@import url(//fonts.googleapis.com/earlyaccess/notosanskr.css);
